@@ -1,2 +1,1 @@
-hello rahul
-hello this is me rahul
+learning how to use git from begining.
